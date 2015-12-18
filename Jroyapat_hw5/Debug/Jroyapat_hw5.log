@@ -1,0 +1,43 @@
+﻿Build started 11/30/2014 8:16:46 PM.
+     1>Project "D:\VisualStudio\Jroyapat_hw5\Jroyapat_hw5\Jroyapat_hw5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BulkHashMap.cpp Factory05.cpp HashMap.cpp KeyValue.cpp
+         BulkHashMap.cpp
+     1>d:\visualstudio\jroyapat_hw5\jroyapat_hw5\interfaces05.h(18): warning C4522: 'CompositeKey' : multiple assignment operators specified
+     1>d:\visualstudio\jroyapat_hw5\jroyapat_hw5\bulkhashmap.cpp(15): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\visualstudio\jroyapat_hw5\jroyapat_hw5\bulkhashmap.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\visualstudio\jroyapat_hw5\jroyapat_hw5\bulkhashmap.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         Compiling...
+         KeyValue.cpp
+     1>d:\visualstudio\jroyapat_hw5\jroyapat_hw5\interfaces05.h(18): warning C4522: 'CompositeKey' : multiple assignment operators specified
+         HashMap.cpp
+     1>d:\visualstudio\jroyapat_hw5\jroyapat_hw5\interfaces05.h(18): warning C4522: 'CompositeKey' : multiple assignment operators specified
+     1>d:\visualstudio\jroyapat_hw5\jroyapat_hw5\hashmap.cpp(21): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\visualstudio\jroyapat_hw5\jroyapat_hw5\hashmap.cpp(38): warning C4018: '<' : signed/unsigned mismatch
+         Factory05.cpp
+     1>d:\visualstudio\jroyapat_hw5\jroyapat_hw5\interfaces05.h(18): warning C4522: 'CompositeKey' : multiple assignment operators specified
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VisualStudio\Jroyapat_hw5\Debug\Jroyapat_hw5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VisualStudio\Jroyapat_hw5\Debug\Jroyapat_hw5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VisualStudio\Jroyapat_hw5\Debug\Jroyapat_hw5.lib" /MACHINE:X86 Debug\AbstractGrader.obj
+         Debug\BulkHashMap.obj
+         Debug\Commands05.obj
+         Debug\Date.obj
+         Debug\Factory05.obj
+         Debug\Grader05.obj
+         Debug\HashMap.obj
+         Debug\Interfaces05.obj
+         Debug\main.obj
+         Debug\MemUsage.obj
+         Debug\KeyValue.obj
+         Debug\ObjectFactory.obj
+         Debug\Random.obj
+         Debug\Stopwatch.obj
+         Debug\UnixStopwatch.obj
+         Debug\WindowsStopwatch.obj
+         Jroyapat_hw5.vcxproj -> D:\VisualStudio\Jroyapat_hw5\Debug\Jroyapat_hw5.exe
+     1>Done Building Project "D:\VisualStudio\Jroyapat_hw5\Jroyapat_hw5\Jroyapat_hw5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.13
